@@ -1,13 +1,12 @@
-### Hello, I'm Lucas Sansão!
-Hello! I'm Lucas Sansao. I'm Electrical Maintenance Engineer with years of experience as Maintenance Supervisor, Maintenance Engineer and Maintenance Technician.
+### Hello, I'm Maria Clara!
+I'm newly graduated Web Developer and Designer at Tamwood Carrers.
 
-Recently I decided to change my occupation of over 11 years of working in Maintenance and Electrical Engineering to start a new beginner career in Web Development.
+I chose Web Development as my first career because programming always caught my attention.
 
-I've been working and dedicated long enough time to learn about Web Development and become a great professional. I'm ready to acquire new knowledge and skills and I’m certain that joining your team is a benefit for both sides. I’m ready for long-time cooperation.
+I worked and dedicated enough time to learn about Web Development and became a great professional. I am ready to acquire new knowledge and skills and I am sure that being apart of your team is a benefit for both sides. I am ready for a long-term cooperation.
 
-With this career change, I am looking to explore new opportunities and challenges, both in the field of Electrical Engineering and Web Development. I believe that the combination of these skills can bring numerous possibilities and creative solutions to the demands of the current market.
+I am a proactive and dedicated person, looking to explore new opportunities and challenges, in the field of Web Development. I believe that this industry has a lot to offer for my growth and knowledge as a newly graduated Web Developer.
 
-I am a proactive, dedicated person who is always looking to learn more. I am open to new opportunities and challenges, whether in the field of Electrical Engineering or Web Development. Let's connect and explore together the possibilities that the market can offer?
 ### Contacts
 <a href = "mailto:mariacbrsantos@gmail.com?subject=Hello! Ms. Maria Clara"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/16043542063" alt="WhatsApp" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -34,12 +33,3 @@ I am a proactive, dedicated person who is always looking to learn more. I am ope
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" />
 </div>
-
-### Hobbies and Teams
-- 🥾 Hiking
-- 🎾 Tennis
-- 🏈 NFL (Seatlle Seahawks/ BC Lions)
-- 🏀 NBA (Toronto Raptors)
-- ⚾ MLB (Toronto Blue Jay)
-- ⚽ Soccer (Palmeiras)
-- 🏒 Ice Hockey (Vancouver Canucks) 
