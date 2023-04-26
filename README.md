@@ -1,5 +1,5 @@
 ### Hello, I'm Maria Clara!
-I'm newly graduated Web Developer and Designer at Tamwood Carrers.
+I'm newly graduated Web Developer and Designer at Tamwood Careers.
 
 I chose Web Development as my first career because programming always caught my attention.
 
