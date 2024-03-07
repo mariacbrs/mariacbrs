@@ -1,11 +1,7 @@
 ### Hello, I'm Maria Clara!
-I'm newly graduated Web Developer and Designer at Tamwood Careers.
+Hi, my name is Maria Clara. I majored in Web Developer and Designer at Tamwood International College and now I'm studying Systems Analysis and Development at São Judas Tadeu University.
 
-I chose Web Development as my first career because programming always caught my attention.
-
-I worked and dedicated enough time to learn about Web Development and became a great professional. I am ready to acquire new knowledge and skills and I am sure that being apart of your team is a benefit for both sides. I am ready for a long-term cooperation.
-
-I am a proactive and dedicated person, looking to explore new opportunities and challenges, in the field of Web Development. I believe that this industry has a lot to offer for my growth and knowledge as a newly graduated Web Developer.
+I am a proactive and dedicated person, looking to explore new opportunities and challenges, in the field of Web Development. I believe that this industry has a lot to offer for my growth and knowledge as a developer.
 
 ### Contacts
 <a href = "mailto:mariacbrsantos@gmail.com?subject=Hello! Ms. Maria Clara"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
