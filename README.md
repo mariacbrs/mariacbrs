@@ -1,5 +1,5 @@
 ### Hello, I'm Maria Clara!
-I majored in Web Developer and Designer at Tamwood International College and now I'm studying Systems Analysis and Development at São Judas Tadeu University.
+I majored in Web Developement and Design at Tamwood International College and now I'm studying Systems Analysis and Development at São Judas Tadeu University.
 
 I am a proactive and dedicated person, looking to explore new opportunities and challenges, in the field of Web Development. I believe that this industry has a lot to offer for my growth and knowledge as a developer.
 
