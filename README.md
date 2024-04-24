@@ -1,7 +1,10 @@
 ### Hello, I'm Maria Clara!
 I majored in Web Developement and Design at Tamwood International College and now I'm studying Systems Analysis and Development at São Judas Tadeu University.
-
 I am a proactive and dedicated person, looking to explore new opportunities and challenges, in the field of Web Development. I believe that this industry has a lot to offer for my growth and knowledge as a developer.
+
+Olá, meu nome é Maria Clara. Sou formada em Web Developement and Designer na Tamwood International College, em Vancouver e curso Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu.
+Sou uma pessoa proativa e dedicada, em busca de novas oportunidades e desafios na área de desenvolvimento web. Acredito que esse setor tem muito a oferecer para meu crescimento pessoal e profissional.
+
 
 ### Contacts
 <a href = "mailto:mariacbrsantos@gmail.com?subject=Hello! Ms. Maria Clara"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
